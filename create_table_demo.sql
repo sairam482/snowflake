@@ -7,5 +7,4 @@ use schema newgitdb.public;
 
 --create table and load data
 
-create or replace table mytab (id int);
-insert into mytab values (100);
+select * from table mytab;
