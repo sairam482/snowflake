@@ -1,4 +1,4 @@
-create or replace database newgitdb;
+
 
 --set context 
 use database newgitdb;
